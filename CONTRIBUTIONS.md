@@ -2,12 +2,11 @@ We welcome your contributions to help improve and enhance our work. To ensure a 
 
 ## Pull Requests
 
-We accept pull requests (PRs) from anyone who wishes to contribute. Whether you're fixing a bug, implementing a new feature, or enhancing documentation, your efforts are greatly appreciated. To submit your changes, please follow these steps:
+We accept pull requests (PRs) from anyone who wishes to contribute.  To submit your changes, please follow these steps:
 
 1. Fork the repository to your GitHub account.
 2. Create a new branch from the main branch of the repository.
-3. Make your desired changes, ensuring that your code adheres to our coding conventions.
-4. Test your changes thoroughly to avoid any unforeseen issues.
+3. Make your desired changes, ensuring that you adheres to our coding conventions.
 5. Commit your changes with a descriptive and concise commit message.
 6. Push your changes to your forked repository.
 7. Open a new pull request and provide a clear summary of your changes.
