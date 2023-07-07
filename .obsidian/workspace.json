@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cfd7763f595d430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DISCLAIMER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DISCLAIMER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DISCLAIMER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DISCLAIMER.md"
               }
             }
           }
@@ -147,14 +160,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fedd46e83cd4b83e",
+  "active": "6cfd7763f595d430",
   "lastOpenFiles": [
-    "Untitled.md",
+    "README.md",
+    "DISCLAIMER.md",
     "CODE OF CONDUCT.md",
     "Obsidian Templates/Default.md",
     "CONTRIBUTIONS.md",
     "LICENSE.md",
-    "Obsidian Templates",
-    "README.md"
+    "Obsidian Templates"
   ]
 }
