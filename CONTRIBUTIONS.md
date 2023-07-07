@@ -15,9 +15,11 @@ Once your pull request is opened, our team will review it as soon as possible. W
 
 ## Licensing
 
-By contributing to this project, you agree that your contributions will be licensed under the Creative Commons Attribution 4.0 International License. This license allows others to distribute, remix, adapt, and build upon your work, even commercially, as long as they provide appropriate attribution to the original author(s). You can find the complete license text [here](https://creativecommons.org/licenses/by/4.0/legalcode).
+By contributing to this project, you agree to assign the copyright of your contributions to the project.  
 
-Please make sure that all your contributions, including code, documentation, and other assets, are compatible with this licensing requirement.
+Your contributions will be licensed under the Creative Commons Attribution 4.0 International License, along with the rest of the work. This license allows others to distribute, remix, adapt, and build upon your contributions, even commercially, as long as they provide appropriate attribution to the original author(s). You can find the complete license text [her](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+Please make sure that all your contributions are compatible with this licensing requirement.
 
 ## Code of Conduct
 
