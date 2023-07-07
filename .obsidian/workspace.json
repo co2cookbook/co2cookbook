@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3140ce56828922e1",
+        "id": "c91d09e5fccbb7fe",
         "type": "tabs",
         "children": [
           {
-            "id": "fedd46e83cd4b83e",
+            "id": "f7b1bff864224f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Templates/Default.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6cfd7763f595d430",
+            "id": "fc1cc118efb10678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "DISCLAIMER.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "DISCLAIMER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "DISCLAIMER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "DISCLAIMER.md"
               }
             }
           }
@@ -160,14 +160,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6cfd7763f595d430",
+  "active": "fc1cc118efb10678",
   "lastOpenFiles": [
-    "DISCLAIMER.md",
-    "CONTRIBUTIONS.md",
-    "CODE OF CONDUCT.md",
     "Obsidian Templates/Default.md",
     "README.md",
     "LICENSE.md",
+    "DISCLAIMER.md",
+    "CONTRIBUTIONS.md",
+    "CODE OF CONDUCT.md",
     "Obsidian Templates"
   ]
 }
