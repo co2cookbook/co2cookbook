@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 We welcome your contributions to help improve and enhance our work. To ensure a smooth collaboration, please review and follow the guidelines outlined below.
 
 ## Pull Requests

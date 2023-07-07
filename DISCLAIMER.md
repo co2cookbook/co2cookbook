@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 Important Safety Warning for Readers and Users of this Site
 
 The procedures on this site involve the use of dangerous chemicals. It is essential to exercise extreme caution and take appropriate safety measures when attempting any of the recipes described herein. 
@@ -22,6 +21,6 @@ Please be aware that the following disclaimer serves as a reminder that the info
 
 7. Liability: The creators, authors, and publishers of this site shall not be held liable for any injury, damage, or loss incurred as a direct or indirect result of following the recipes outlined on this platform. Users assume full responsibility for their actions and any consequences that may arise from their use of the information provided.
 
-Remember, the utmost importance lies in prioritizing safety when dealing with dangerous chemicals. If you are unsure about any aspect of a recipe or technique, or if you lack experience, please consult with a qualified professional or expert before proceeding.
+Remember, the utmost importance lies in prioritizing safety when dealing with dangerous chemicals. If you are unsure about any aspect of a recipe, or if you lack experience, please consult with a qualified professional or expert before proceeding.
 
 By continuing to use this site and accessing the provided content, you acknowledge that you have read, understood, and agreed to the above disclaimer.
