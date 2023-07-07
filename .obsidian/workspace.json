@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Templates/Default.md",
+                "file": "DISCLAIMER.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Templates/Default.md",
+                "file": "DISCLAIMER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Templates/Default.md",
+                "file": "DISCLAIMER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Templates/Default.md"
+                "file": "DISCLAIMER.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "6cfd7763f595d430",
   "lastOpenFiles": [
+    "Obsidian Templates/Default.md",
     "DISCLAIMER.md",
     "README.md",
     "CODE OF CONDUCT.md",
-    "Obsidian Templates/Default.md",
     "CONTRIBUTIONS.md",
     "LICENSE.md",
     "Obsidian Templates"

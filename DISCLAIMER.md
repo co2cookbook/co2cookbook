@@ -4,7 +4,7 @@ publish: true
 
 Important Safety Warning for Readers and Users of this Site
 
-The procedures on this site involve the use of dangerous chemicals. It is essential to exercise extreme caution and take appropriate safety measures when attempting any of the techniques described herein. 
+The procedures on this site involve the use of dangerous chemicals. It is essential to exercise extreme caution and take appropriate safety measures when attempting any of the recipes described herein. 
 
 Please be aware that the following disclaimer serves as a reminder that the information provided is for educational or informational purposes only and does not constitute professional advice or instruction. The use of hazardous materials carries inherent risks, and individuals should possess the necessary knowledge and expertise to handle such substances safely.
 
@@ -20,7 +20,7 @@ Please be aware that the following disclaimer serves as a reminder that the info
 
 6. Legal and Ethical Responsibilities: Ensure compliance with local, state, and national laws, regulations, and ethical guidelines governing the use, handling, and disposal of dangerous chemicals or substances. Understand and respect any restrictions or permits required for certain activities.
 
-7. Liability: The creators, authors, and publishers of this site shall not be held liable for any injury, damage, or loss incurred as a direct or indirect result of following the recipes, experiments, or techniques outlined on this platform. Users assume full responsibility for their actions and any consequences that may arise from their use of the information provided.
+7. Liability: The creators, authors, and publishers of this site shall not be held liable for any injury, damage, or loss incurred as a direct or indirect result of following the recipes outlined on this platform. Users assume full responsibility for their actions and any consequences that may arise from their use of the information provided.
 
 Remember, the utmost importance lies in prioritizing safety when dealing with dangerous chemicals. If you are unsure about any aspect of a recipe or technique, or if you lack experience, please consult with a qualified professional or expert before proceeding.
 

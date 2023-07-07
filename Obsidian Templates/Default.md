@@ -3,5 +3,5 @@ publish: true
 ---
 
 
-[[DISCLAIMER]]` 
+[[DISCLAIMER]]
 
