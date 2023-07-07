@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "017568e77322e617",
+        "id": "893979b8cffd1add",
         "type": "tabs",
         "children": [
           {
-            "id": "e81889da53b62c4f",
+            "id": "f88ef64d1c7375bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODE_OF_CONDUCT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODE_OF_CONDUCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODE_OF_CONDUCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CODE_OF_CONDUCT.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e81889da53b62c4f",
+  "active": "f88ef64d1c7375bf",
   "lastOpenFiles": [
-    "README.md",
     "CODE_OF_CONDUCT.md",
+    "README.md",
     "LICENSE.md"
   ]
 }
