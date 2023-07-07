@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Default.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Untitled.md"
+                "file": "Templates/Default.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "fedd46e83cd4b83e",
   "lastOpenFiles": [
+    "CONTRIBUTIONS.md",
+    "Templates/Default.md",
     "LICENSE.md",
-    "Templates/Untitled.md",
     "Templates",
     "CODE_OF_CONDUCT.md",
-    "CONTRIBUTIONS.md",
     "README.md"
   ]
 }
