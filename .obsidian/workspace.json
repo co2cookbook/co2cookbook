@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODE_OF_CONDUCT.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODE_OF_CONDUCT.md",
+                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODE_OF_CONDUCT.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODE_OF_CONDUCT.md"
+                "file": "LICENSE.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "f88ef64d1c7375bf",
   "lastOpenFiles": [
-    "CONTRIBUTIONS.md",
     "CODE_OF_CONDUCT.md",
+    "CONTRIBUTIONS.md",
     "LICENSE.md",
     "README.md"
   ]
