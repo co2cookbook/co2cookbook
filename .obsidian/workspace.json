@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4f2fe155898c036f",
+        "id": "017568e77322e617",
         "type": "tabs",
         "children": [
           {
-            "id": "62a8cd6fd470fa1a",
+            "id": "e81889da53b62c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24b65b3f6a6767bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LICENSE.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "CODE_OF_CONDUCT.md"
               }
             }
           }
@@ -156,12 +143,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "24b65b3f6a6767bc",
+  "active": "e81889da53b62c4f",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE.md"
+    "LICENSE.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md"
   ]
 }
