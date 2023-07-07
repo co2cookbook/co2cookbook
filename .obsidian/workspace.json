@@ -11,8 +11,12 @@
             "id": "fedd46e83cd4b83e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "Templates/Untitled.md"
               }
             }
           }
@@ -143,11 +147,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c94d27e54cffee07",
+  "active": "fedd46e83cd4b83e",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "Templates/Untitled.md",
+    "Templates",
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTIONS.md",
-    "LICENSE.md",
     "README.md"
   ]
 }
