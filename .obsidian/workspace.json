@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Default.md",
+                "file": "CODE OF CONDUCT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default.md",
+                "file": "CODE OF CONDUCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Default.md",
+                "file": "CODE OF CONDUCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Default.md"
+                "file": "CODE OF CONDUCT.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "fedd46e83cd4b83e",
   "lastOpenFiles": [
+    "Obsidian Templates/Default.md",
     "CONTRIBUTIONS.md",
-    "Templates/Default.md",
     "LICENSE.md",
-    "Templates",
-    "CODE_OF_CONDUCT.md",
+    "Obsidian Templates",
+    "CODE OF CONDUCT.md",
     "README.md"
   ]
 }
