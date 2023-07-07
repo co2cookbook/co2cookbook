@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "374848e53c5c32f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTRIBUTIONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CONTRIBUTIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CONTRIBUTIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CONTRIBUTIONS.md"
+              }
             }
           }
         ]
@@ -139,8 +156,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f88ef64d1c7375bf",
+  "active": "374848e53c5c32f2",
   "lastOpenFiles": [
+    "CONTRIBUTIONS.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
     "LICENSE.md"
