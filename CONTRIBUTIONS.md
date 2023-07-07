@@ -6,7 +6,7 @@ We accept pull requests (PRs) from anyone who wishes to contribute.  To submit y
 
 1. Fork the repository to your GitHub account.
 2. Create a new branch from the main branch of the repository.
-3. Make your desired changes.  Try to write in a voice that sounds like the writing here and format any assets to match the look of .
+3. Make your desired changes.  Try to write in a voice that sounds like the writing here and make look-alike charts andassets look like the.
 4. Commit your changes with a descriptive and concise commit message.
 6. Push your changes to your forked repository.
 7. Open a new pull request and provide a clear summary of your changes.
