@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISCLAIMER.md",
+                "file": "Obsidian Templates/Default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISCLAIMER.md",
+                "file": "Obsidian Templates/Default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISCLAIMER.md"
+                "file": "Obsidian Templates/Default.md"
               }
             }
           }
@@ -160,12 +159,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fc1cc118efb10678",
+  "active": "f7b1bff864224f06",
   "lastOpenFiles": [
+    "DISCLAIMER.md",
     "Obsidian Templates/Default.md",
     "README.md",
     "LICENSE.md",
-    "DISCLAIMER.md",
     "CONTRIBUTIONS.md",
     "CODE OF CONDUCT.md",
     "Obsidian Templates"
