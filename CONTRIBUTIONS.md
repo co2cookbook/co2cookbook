@@ -16,13 +16,3 @@ Once your pull request is opened, our team will review it as soon as possible. W
 ## Licensing
 
 By contributing to this project, you grant us an unrestricted license to use, modify, and distribute your contributions.
-
-## Code of Conduct
-
-We have a Code of Conduct in place to ensure a welcoming and inclusive environment for all contributors. By participating in this project, you are expected to abide by the Code of Conduct. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers.
-
-## Feedback and Discussions
-
-We value feedback and encourage open discussions related to the project. If you have any questions, suggestions, or concerns, please feel free to open an issue on the repository. We appreciate constructive input and are eager to work together to improve the project.
-
-Thank you for your interest in contributing to our project. Your contributions play a vital role in making it better for everyone. Happy coding!
