@@ -5,8 +5,6 @@ Important Safety Warning for Readers and Users of this Site
 
 The procedures on this site involve the use of dangerous chemicals. It is essential to exercise extreme caution and take appropriate safety measures when attempting any of the recipes described herein. 
 
--- 
-
 Please be aware that the following disclaimer serves as a reminder that the information provided is for educational or informational purposes only and does not constitute professional advice or instruction. The use of hazardous materials carries inherent risks, and individuals should possess the necessary knowledge and expertise to handle such substances safely.
 
 1. Protective Gear: Always wear appropriate protective gear, including but not limited to safety goggles, gloves, lab coats, or other recommended equipment, while working with dangerous chemicals or substances. These protective measures are crucial to minimize exposure and protect against potential harm.

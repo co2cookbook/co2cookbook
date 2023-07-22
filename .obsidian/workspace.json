@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c91d09e5fccbb7fe",
+        "id": "b04d5e82611b682d",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1cc118efb10678",
+            "id": "506072c29947acab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISCLAIMER.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISCLAIMER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISCLAIMER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DISCLAIMER.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fc1cc118efb10678",
+  "active": "c94d27e54cffee07",
   "lastOpenFiles": [
-    "Obsidian Templates/Default.md",
     "DISCLAIMER.md",
+    "Obsidian Templates/Default.md",
     "README.md",
     "LICENSE.md",
     "CONTRIBUTIONS.md",
