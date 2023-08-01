@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3899657d3e01491f",
+        "id": "1ff922c1901ef343",
         "type": "tabs",
         "children": [
           {
-            "id": "c2e4316c46674a44",
+            "id": "4a08f6f7d197c368",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CODE OF CONDUCT.md",
-                "mode": "source",
-                "source": false
+                "file": "Appendix/Packing/TPMS/3D printed triply periodic minimal surfaces.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODE OF CONDUCT.md",
+                "file": "Appendix/Packing/TPMS/3D printed triply periodic minimal surfaces.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODE OF CONDUCT.md",
+                "file": "Appendix/Packing/TPMS/3D printed triply periodic minimal surfaces.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODE OF CONDUCT.md"
+                "file": "Appendix/Packing/TPMS/3D printed triply periodic minimal surfaces.pdf"
               }
             }
           }
@@ -147,16 +145,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c2e4316c46674a44",
+  "active": "c94d27e54cffee07",
   "lastOpenFiles": [
     "Appendix/Packing/TPMS/README.md",
-    "Appendix/Packing/TPMS/TPMS.pdf",
+    "CONTRIBUTIONS.md",
+    "Appendix/Packing/TPMS/3D printed triply periodic minimal surfaces.pdf",
+    "CODE OF CONDUCT.md",
     "DISCLAIMER.md",
     "Obsidian Templates/Default.md",
     "README.md",
     "LICENSE.md",
-    "CONTRIBUTIONS.md",
-    "CODE OF CONDUCT.md",
     "Obsidian Templates"
   ]
 }
