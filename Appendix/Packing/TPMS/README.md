@@ -9,5 +9,6 @@
 
 ## Jupyter Notebook
 
-Compute the Schwarz D surface area per square meter
+[Compute the Schwarz D surface area per square meter](./schwarz-d.ipynb)
+
 
