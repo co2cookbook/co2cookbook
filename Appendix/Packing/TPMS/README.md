@@ -2,5 +2,6 @@
 
 [3D printed triply periodic minimal surfaces as advanced structured packings for solvent-based CO2 capture](./TPMS.pdf)
 
-##  MathMod Model
+## MathMod
 
+[MathMod](https://sourceforge.net/projects/mathmod/) models shapes with equations.
