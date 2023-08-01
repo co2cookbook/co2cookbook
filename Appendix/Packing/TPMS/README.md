@@ -6,6 +6,7 @@
 
 [MathMod](https://sourceforge.net/projects/mathmod/) plots 3D mathematical surfaces 
 [Schwarz D MathMod model](./schwarz-d.js)
+Schwarz D OBJ file 
 
 ## Jupyter Notebook
 
