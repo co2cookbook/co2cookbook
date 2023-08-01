@@ -6,28 +6,28 @@
                     "Schwarz D"
                 ],
                 "Fxyz": [
-                    "sin(x)*sin(y)*sin(z)*10 + sin(x)*cos(y)*cos(z)*10 + cos(x)*sin(y)*cos(z) + cos(x)*cos(y)*sin(z)"
+                    "sin(x)*sin(y)*sin(z) + sin(x)*cos(y)*cos(z) + cos(x)*sin(y)*cos(z) + cos(x)*cos(y)*sin(z)"
                 ],
                 "Name": [
                     "Schwarz"
                 ],
                 "Xmax": [
-                    " 4"
+                    "3.14159"
                 ],
                 "Xmin": [
-                    "-4"
+                    "0"
                 ],
                 "Ymax": [
-                    " 4"
+                    "3.14159"
                 ],
                 "Ymin": [
-                    "-4"
+                    "0"
                 ],
                 "Zmax": [
-                    " 4"
+                    "3.14159"
                 ],
                 "Zmin": [
-                    "-4"
+                    "0"
                 ]
             }
         },
