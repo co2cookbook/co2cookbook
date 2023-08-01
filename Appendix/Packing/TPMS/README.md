@@ -4,4 +4,5 @@
 
 ## MathMod
 
-[MathMod](https://sourceforge.net/projects/mathmod/) models shapes with equations.
+[Schwarz D model](./schwarz-d.js)
+[MathMod](https://sourceforge.net/projects/mathmod/) models shapes with equations
