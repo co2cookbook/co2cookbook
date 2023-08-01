@@ -11,9 +11,11 @@
             "id": "8ebc10b3fce0e31f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Appendix/Packing/TPMS/TPMS.pdf"
+                "file": "Appendix/Packing/TPMS/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appendix/Packing/TPMS/TPMS.pdf",
+                "file": "Appendix/Packing/TPMS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appendix/Packing/TPMS/TPMS.pdf",
+                "file": "Appendix/Packing/TPMS/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appendix/Packing/TPMS/TPMS.pdf"
+                "file": "Appendix/Packing/TPMS/README.md"
               }
             }
           }
@@ -147,8 +149,8 @@
   },
   "active": "8ebc10b3fce0e31f",
   "lastOpenFiles": [
-    "Appendix/Packing/TPMS/README.md",
     "Appendix/Packing/TPMS/TPMS.pdf",
+    "Appendix/Packing/TPMS/README.md",
     "CONTRIBUTIONS.md",
     "CODE OF CONDUCT.md",
     "DISCLAIMER.md",
