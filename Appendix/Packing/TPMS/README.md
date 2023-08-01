@@ -4,6 +4,6 @@
 
 ## MathMod
 
-[MathMod](https://sourceforge.net/projects/mathmod/) models shapes with equations
-[Schwarz D model](./schwarz-d.js)
+[MathMod](https://sourceforge.net/projects/mathmod/) plots 3D mathematical surfaces using their equations
+[Schwarz D model MathMo](./schwarz-d.js)
 
