@@ -9,4 +9,5 @@
 
 ## Jupyter Notebook
 
-Computes the 
+Compute the Schwarz D surface area per square meter
+
