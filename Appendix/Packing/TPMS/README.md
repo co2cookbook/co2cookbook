@@ -6,7 +6,10 @@
 
 [MathMod](https://sourceforge.net/projects/mathmod/) plots 3D mathematical surfaces 
 [Schwarz D MathMod model](./schwarz-d.js)
-[Schwarz D triangles OBJ file, exported from MathMod](./schwarz-d.obj)
+[Schwarz D triangles OBJ file, exported from MathMod](./schwarz-d-mathmod.obj)
+
+## Blender
+
 
 ## Jupyter Notebook
 
